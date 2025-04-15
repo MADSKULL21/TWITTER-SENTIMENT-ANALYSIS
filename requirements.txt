@@ -1,0 +1,14 @@
+# Web app framework
+streamlit>=1.31.0
+
+# Machine learning
+scikit-learn>=1.6.1
+
+# Natural language processing
+nltk>=3.8.1
+
+# Data handling
+numpy>=1.26.0
+
+# Python version
+# python>=3.9
